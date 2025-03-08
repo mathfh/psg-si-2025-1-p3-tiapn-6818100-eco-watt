@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Eco-watt
 
 `CURSO`
 
@@ -10,14 +10,15 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Lucas G Amaral
+* Gabriel Morais
+* João Paulo Pimentel da Silva
+* Lucas
+* Matheus Henrique
 
 ## Orientador
 
-* Nome completo do professor 1
+* Cleia Marcia Gomes Amaral
 
 ## Instruções de utilização
 
