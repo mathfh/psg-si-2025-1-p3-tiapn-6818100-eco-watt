@@ -49,7 +49,4 @@ informações, o projeto incentiva a conscientização sobre sustentabilidade e 
 consumo energético no meio ambiente e na economia doméstica.
 ## Público-Alvo
 
-Maria, uma professora aposentada, percebeu que sua conta de energia aumentava mês
-após mês, mesmo sem mudanças significativas no seu estilo de vida. Sem saber o
-motivo, decidiu buscar orientações e descobriu que alguns dos seus eletrodomésticos
-consumiam muito mais energia do que versões mais modernas e eficientes.
+O projeto atende famílias e indivíduos que querem economizar na conta de luz e adotar hábitos sustentáveis, como aposentados, jovens eco-conscientes e moradores urbanos. Inclui tanto quem busca redução de custos quanto quem deseja diminuir seu impacto ambiental, unindo tecnologia acessível e troca de experiências em comunidade.
