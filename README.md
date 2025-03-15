@@ -10,11 +10,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Lucas G Amaral
-* Gabriel Morais
+* Lucas gabriel Amaral Harmonico
+* Gabriel Morais Couto
 * João Paulo Pimentel da Silva
-* Lucas
-* Matheus Henrique
+* Lucas Batista Albuquerque
+* Matheus Henrique Fernandes
 
 ## Orientador
 
