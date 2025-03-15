@@ -1,6 +1,17 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A sustentabilidade tem se tornado um tema essencial na sociedade moderna,
+especialmente no que se refere ao consumo de energia elétrica. Segundo a Organização
+das Nações Unidas (ONU), a busca por um consumo mais responsável e eficiente está
+alinhada aos Objetivos de Desenvolvimento Sustentável (ODS), especificamente ao ODS
+7 – “Energia Acessível e Limpa” –, que visa garantir o acesso a fontes de energia
+confiáveis, sustentáveis e modernas para todos.
+
+Apesar dos avanços tecnológicos, muitas residências ainda utilizam equipamentos com
+baixo nível de eficiência energética, contribuindo para o desperdício de recursos naturais
+e o aumento dos custos na conta de luz. Diante desse cenário, é fundamental
+disponibilizar informações acessíveis sobre boas práticas de consumo e alternativas mais
+eficientes para os eletrodomésticos do dia a dia.
 
 ## Problema
 A sustentabilidade tem se tornado um tema essencial na sociedade moderna,
