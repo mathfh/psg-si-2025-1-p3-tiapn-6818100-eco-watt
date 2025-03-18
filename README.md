@@ -1,12 +1,12 @@
 # Eco-watt
 
-`CURSO`
+`CURSO` Sistemas de Informação
 
-`DISCIPLINA`
+`DISCIPLINA` Trabalho Interdisciplinar: Aplicações para Processos de Negócio
 
-`SEMESTRE`
+`SEMESTRE` Terceiro
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O Eco-watt é uma plataforma web colaborativa que ajuda usuários a reduzir o consumo de energia em casa através de um banco de dados de eletrodomésticos (com informações de eficiência energética e dicas de como reduzir o uso de energia eletrica) e um fórum comunitário. A ferramenta permite comparar modelos econômicos e trocar dicas sustentáveis, unindo tecnologia e comunidade para promover economia financeira e redução do impacto ambiental, alinhada aos Objetivos de Desenvolvimento Sustentável.
 
 ## Integrantes
 
