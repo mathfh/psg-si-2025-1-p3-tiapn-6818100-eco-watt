@@ -8,53 +8,13 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-1. Maria Fernandes – Aposentada Consciente
-	•	Idade: 64 anos
-	•	Profissão: Professora aposentada
-	•	Estilo de vida: Gosta de passar o tempo em casa, lendo e cuidando do jardim. Tem preocupação com os gastos domésticos e busca maneiras de economizar.
-	•	Motivação para usar o sistema: Quer reduzir sua conta de energia, mas não entende muito de tecnologia e precisa de informações simples e diretas.
-	•	Desafios: Não sabe exatamente quais aparelhos consomem mais energia em sua casa. Gostaria de um sistema fácil de usar, com explicações didáticas.
-	•	Objetivos: Encontrar formas de economizar energia sem precisar investir em novos equipamentos caros.
+	1.	Maria Fernandes tem 64 anos, é professora aposentada e gosta de passar o tempo em casa lendo e cuidando do jardim. Ela se preocupa com os gastos domésticos e busca maneiras de economizar. Maria deseja reduzir sua conta de energia, mas não entende muito de tecnologia e precisa de informações simples e diretas. Seu maior desafio é identificar quais aparelhos consomem mais energia em sua casa. Para ela, um sistema fácil de usar, com explicações claras e didáticas, seria ideal. Seu objetivo é encontrar formas de economizar sem precisar investir em novos equipamentos caros.
+	2.	João Carlos tem 27 anos, é analista de marketing digital e mora sozinho em um apartamento alugado. Ele se preocupa com o impacto ambiental de suas ações e procura formas sustentáveis de viver. João quer otimizar seu consumo de energia para reduzir tanto seu impacto ambiental quanto os custos da conta de luz. Seu maior desafio é entender quais equipamentos trocar ou como utilizá-los de maneira mais eficiente. Ele busca aprender novas práticas sustentáveis e deseja interagir com outras pessoas no fórum para trocar experiências sobre economia de energia.
+	3.	Juliana Lopes tem 39 anos, é empresária e mãe de dois filhos. Como responsável pelo orçamento doméstico, está sempre buscando formas de reduzir gastos sem comprometer o conforto da família. Juliana quer controlar melhor o consumo energético da casa, já que os filhos utilizam muitos aparelhos eletrônicos diariamente. Seu desafio é encontrar sugestões viáveis para economizar sem precisar substituir todos os eletrodomésticos de uma vez. Seu objetivo é melhorar a eficiência do consumo de energia e ensinar hábitos mais sustentáveis para seus filhos.
+	4.	Rafael Martins tem 33 anos, é dono de uma cafeteria e se preocupa tanto com os custos do seu negócio quanto com a sustentabilidade. Ele quer adotar medidas ecológicas que também sejam financeiramente vantajosas. Além da conta de luz de sua casa, Rafael precisa entender como otimizar o consumo energético de seu estabelecimento. Seu maior desafio é encontrar informações claras sobre equipamentos mais eficientes e adaptar hábitos de consumo para reduzir gastos sem comprometer a operação do seu negócio. Seu objetivo é aprender a reduzir o consumo de energia no dia a dia e aplicar esse conhecimento para tornar sua cafeteria mais sustentável.
+	5.	Diego Souza tem 21 anos, é estudante de Engenharia Ambiental e mora em uma república com amigos. Ele é interessado em tecnologia e sustentabilidade, utilizando muitos eletrônicos para estudo e lazer. Diego deseja aprender mais sobre consumo energético e compartilhar conhecimento no fórum com outras pessoas interessadas no tema. Seu maior desafio é encontrar informações detalhadas e embasadas sobre o impacto dos aparelhos elétricos no consumo de energia. Seu objetivo é aplicar o conhecimento adquirido na faculdade para melhorar a eficiência energética em sua casa e influenciar seus amigos a adotarem práticas mais sustentáveis
 
-⸻
 
-2. João Carlos – Jovem Sustentável
-	•	Idade: 27 anos
-	•	Profissão: Analista de marketing digital
-	•	Estilo de vida: Mora sozinho em um apartamento alugado e se preocupa com o impacto ambiental de suas ações. Procura formas sustentáveis de viver.
-	•	Motivação para usar o sistema: Quer otimizar seu consumo de energia para reduzir seu impacto ambiental e os custos da conta de luz.
-	•	Desafios: Precisa de recomendações sobre quais equipamentos trocar ou como usá-los de forma mais eficiente.
-	•	Objetivos: Aprender novas práticas sustentáveis e interagir com outras pessoas no fórum para trocar experiências sobre economia de energia.
-
-⸻
-
-3. Juliana Lopes – Mãe e Gestora do Lar
-	•	Idade: 39 anos
-	•	Profissão: Empresária e mãe de dois filhos
-	•	Estilo de vida: Administra o orçamento doméstico e está sempre buscando formas de reduzir gastos sem comprometer o conforto da família.
-	•	Motivação para usar o sistema: Quer controlar melhor o consumo energético da casa, já que os filhos utilizam muitos aparelhos eletrônicos.
-	•	Desafios: Precisa de sugestões acessíveis e viáveis para economizar sem precisar trocar todos os eletrodomésticos de uma vez.
-	•	Objetivos: Melhorar a eficiência do consumo de energia da casa e ensinar hábitos mais sustentáveis para os filhos.
-
-⸻
-
-4. Rafael Martins – Pequeno Empreendedor
-	•	Idade: 33 anos
-	•	Profissão: Dono de uma cafeteria
-	•	Estilo de vida: Preocupado com os custos do seu negócio e com a sustentabilidade. Quer adotar medidas ecológicas que também sejam financeiramente vantajosas.
-	•	Motivação para usar o sistema: Além da conta de luz da sua casa, precisa entender como otimizar o consumo energético do seu estabelecimento.
-	•	Desafios: Encontra dificuldades em saber quais equipamentos possuem melhor eficiência energética e como adaptar hábitos de consumo.
-	•	Objetivos: Aprender a reduzir o consumo de energia no seu dia a dia e levar esse conhecimento para sua empresa, tornando-a mais sustentável.
-
-⸻
-
-5. Diego Souza – Estudante Universitário
-	•	Idade: 21 anos
-	•	Profissão: Estudante de Engenharia Ambiental
-	•	Estilo de vida: Mora em república com amigos, interessado em tecnologia e sustentabilidade. Usa muitos eletrônicos para estudo e lazer.
-	•	Motivação para usar o sistema: Quer aprender mais sobre consumo energético e compartilhar conhecimento no fórum com outras pessoas interessadas em sustentabilidade.
-	•	Desafios: Precisa de informações detalhadas e embasadas sobre o impacto dos aparelhos elétricos no consumo geral.
-	•	Objetivos: Aplicar o conhecimento adquirido na faculdade para melhorar a eficiência energética em sua casa e influenciar amigos a adotarem práticas sustentáveis.
 
 ## Histórias de Usuários
 
