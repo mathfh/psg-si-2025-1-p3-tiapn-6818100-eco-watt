@@ -8,12 +8,53 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+1. Maria Fernandes – Aposentada Consciente
+	•	Idade: 64 anos
+	•	Profissão: Professora aposentada
+	•	Estilo de vida: Gosta de passar o tempo em casa, lendo e cuidando do jardim. Tem preocupação com os gastos domésticos e busca maneiras de economizar.
+	•	Motivação para usar o sistema: Quer reduzir sua conta de energia, mas não entende muito de tecnologia e precisa de informações simples e diretas.
+	•	Desafios: Não sabe exatamente quais aparelhos consomem mais energia em sua casa. Gostaria de um sistema fácil de usar, com explicações didáticas.
+	•	Objetivos: Encontrar formas de economizar energia sem precisar investir em novos equipamentos caros.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+⸻
 
+2. João Carlos – Jovem Sustentável
+	•	Idade: 27 anos
+	•	Profissão: Analista de marketing digital
+	•	Estilo de vida: Mora sozinho em um apartamento alugado e se preocupa com o impacto ambiental de suas ações. Procura formas sustentáveis de viver.
+	•	Motivação para usar o sistema: Quer otimizar seu consumo de energia para reduzir seu impacto ambiental e os custos da conta de luz.
+	•	Desafios: Precisa de recomendações sobre quais equipamentos trocar ou como usá-los de forma mais eficiente.
+	•	Objetivos: Aprender novas práticas sustentáveis e interagir com outras pessoas no fórum para trocar experiências sobre economia de energia.
 
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+⸻
+
+3. Juliana Lopes – Mãe e Gestora do Lar
+	•	Idade: 39 anos
+	•	Profissão: Empresária e mãe de dois filhos
+	•	Estilo de vida: Administra o orçamento doméstico e está sempre buscando formas de reduzir gastos sem comprometer o conforto da família.
+	•	Motivação para usar o sistema: Quer controlar melhor o consumo energético da casa, já que os filhos utilizam muitos aparelhos eletrônicos.
+	•	Desafios: Precisa de sugestões acessíveis e viáveis para economizar sem precisar trocar todos os eletrodomésticos de uma vez.
+	•	Objetivos: Melhorar a eficiência do consumo de energia da casa e ensinar hábitos mais sustentáveis para os filhos.
+
+⸻
+
+4. Rafael Martins – Pequeno Empreendedor
+	•	Idade: 33 anos
+	•	Profissão: Dono de uma cafeteria
+	•	Estilo de vida: Preocupado com os custos do seu negócio e com a sustentabilidade. Quer adotar medidas ecológicas que também sejam financeiramente vantajosas.
+	•	Motivação para usar o sistema: Além da conta de luz da sua casa, precisa entender como otimizar o consumo energético do seu estabelecimento.
+	•	Desafios: Encontra dificuldades em saber quais equipamentos possuem melhor eficiência energética e como adaptar hábitos de consumo.
+	•	Objetivos: Aprender a reduzir o consumo de energia no seu dia a dia e levar esse conhecimento para sua empresa, tornando-a mais sustentável.
+
+⸻
+
+5. Diego Souza – Estudante Universitário
+	•	Idade: 21 anos
+	•	Profissão: Estudante de Engenharia Ambiental
+	•	Estilo de vida: Mora em república com amigos, interessado em tecnologia e sustentabilidade. Usa muitos eletrônicos para estudo e lazer.
+	•	Motivação para usar o sistema: Quer aprender mais sobre consumo energético e compartilhar conhecimento no fórum com outras pessoas interessadas em sustentabilidade.
+	•	Desafios: Precisa de informações detalhadas e embasadas sobre o impacto dos aparelhos elétricos no consumo geral.
+	•	Objetivos: Aplicar o conhecimento adquirido na faculdade para melhorar a eficiência energética em sua casa e influenciar amigos a adotarem práticas sustentáveis.
 
 ## Histórias de Usuários
 
