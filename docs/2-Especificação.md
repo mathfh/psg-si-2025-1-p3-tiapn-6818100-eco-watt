@@ -4,8 +4,6 @@
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Personas
 
 1.	Maria Fernandes tem 64 anos, é professora aposentada e gosta de passar o tempo em casa lendo e cuidando do jardim. Ela se preocupa com os gastos domésticos e busca maneiras de economizar. Maria deseja reduzir sua conta de energia, mas não entende muito de tecnologia e precisa de informações simples e diretas. Seu maior desafio é identificar quais aparelhos consomem mais energia em sua casa. Para ela, um sistema fácil de usar, com explicações claras e didáticas, seria ideal. Seu objetivo é encontrar formas de economizar sem precisar investir em novos equipamentos caros.
@@ -26,10 +24,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Maria Fernandes | Verificar de forma simples quais eletrodomesticos estão pesando na conta de luz | Diminuir o custo da conta sem precisar comprar equipamentos novos. |
+|João Carlos | Verificar quais eletrodomesticos são mais sustetaveis para a natureza em longo prazo | Ter uma vida mais Sustentável |
+|Diego Souza | Interagir no forum | Aprender mais sobre sustentabilidade  |
+|Juliana Lopes | Receber dicas práticas para ensinar meus filhos a economizar energia | Controlar os gastos da casa e criar hábitos sustentáveis na família. |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 
 
